@@ -1,7 +1,7 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/profile-project/",
+  base: "/",
   build: {
     outDir: "dist"
   }
